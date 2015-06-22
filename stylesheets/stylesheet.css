@@ -29,10 +29,10 @@ a {
     margin-left: 1rem; }
 
 .btn:hover {
-  color: #000000;
+  color: #0000ff;
   text-decoration: none;
   background-color: #99A8BA;
-  border-color: #000000; }
+  border-color: #0000ff; }
 
 @media screen and (min-width: 64em) {
   .btn {
