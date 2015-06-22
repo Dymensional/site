@@ -41,7 +41,7 @@ a {
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .btn {
     padding: 0.6rem 0.9rem;
-    font-size: 2.5rem; } }
+    font-size: 5rem; } }
 
 @media screen and (max-width: 42em) {
   .btn {
